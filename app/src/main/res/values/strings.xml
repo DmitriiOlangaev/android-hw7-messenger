@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hw7</string>
+    <string name="options_menu_clear_thumb_title">Clear thumb</string>
+    <string name="options_menu_clear_img_title">Clear img</string>
+    <string name="options_menu_clear_messages_db">Clear messages db</string>
+    <string name="options_menu_change_name_title">Change name</string>
+    <string name="changeNameHint">Введи новое имя</string>
+    <string name="sendNameButtonText">SEND</string>
+    <string name="options_menu_clear_all_title">Clear all</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
